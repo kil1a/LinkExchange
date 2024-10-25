@@ -1,0 +1,11 @@
+﻿body {
+    background-color: rgb(90, 101, 189);
+    margin: 1px;
+}
+header {
+    background-color: rgb(3, 16, 117);
+}
+footer {
+    background-color: rgb(3, 16, 117);
+    margin: 1px;
+}
